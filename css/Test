@@ -1,0 +1,8 @@
+<div data-toggle="buttons" class="btn-group element-type">
+                                <label class="btn btn-primary">
+                                                              <input type="radio" value="F" name="type" id="rdbFille"> Fille
+                                                            </label>
+                                                            <label class="btn btn-primary active">
+                                                              <input type="radio" value="M" name="type" id="rdbGarcon"> Garçon
+                                                            </label>
+                                                          </div>
